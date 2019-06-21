@@ -85,3 +85,6 @@ When one of these error occurs, the correct message is displayed on the **standa
 ![screen1](/screens/screen1.png)
 ![screen2](/screens/screen2.png)
 ![screen3](/screens/screen3.png)
+
+## Credits
+this project was made in collaboration with [@reda-con](https://github.com/RemiDC) and [@kibotrel](https://github.com/kibotrel)
