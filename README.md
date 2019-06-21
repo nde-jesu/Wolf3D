@@ -51,6 +51,7 @@ Keyboard :
 * **P** Pause the game, and take control of the mouse
 * **F** Toggle fullscreen mode
 * **T** Change textures between *Real textures* / *Colors textures*
+* **Echap** Quit the program
 
 Mouse :
 * You can control the camera with the mouse
