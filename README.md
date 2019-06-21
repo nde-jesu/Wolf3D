@@ -35,11 +35,11 @@ A map is designed like this :
 1 1 1 1 1 1 1
 ```
 #### You must need :
-* *1* in every border of the map
-* At least one *0*, a empty case
+* '*1*' in every border of the map
+* At least one '*0*', a empty case
 * The map *MUST* be a rectangle
-* You can add a spawnpoint with *9*, the player will appear inside
-* You can add a finish point with *5*, something will appen if the player go inside
+* You can add a spawnpoint with '*9*', the player will appear inside
+* You can add a finish point with '*5*', something will appen if the player go inside
 
 ### Controls
 
@@ -47,6 +47,7 @@ Keyboard :
 * **W / A / S / D** Move the player in any directions *(Up / Left / Down / Right)*
 * **< / > / Pge Up / Pge Down** Move the camera in any directions *(Left / Right / Up / Down)*
 * **lShift** Toggle a sprint
+* **Tab** Toggle the minimap
 * **P** Pause the game, and take control of the mouse
 * **F** Toggle fullscreen mode
 * **T** Change textures between *Real textures* / *Colors textures*
@@ -81,3 +82,6 @@ Each of the following errors is handled by the program :
 When one of these error occurs, the correct message is displayed on the **standard output**.
 
 ## Screenshots
+![screen1](/screens/screen1.png)
+![screen2](/screens/screen2.png)
+![screen3](/screens/screen3.png)
