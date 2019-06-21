@@ -1,5 +1,5 @@
 # Wolf3D
-A way of learning raycasting
+Learning raycasting with a game
 
 ## Install
 For now, it works on **macOs Sierra**, I didn't tested with other OS yet.
